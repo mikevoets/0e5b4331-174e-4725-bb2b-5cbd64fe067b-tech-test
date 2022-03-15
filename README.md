@@ -12,14 +12,6 @@ You can install all requirements by using pip:
 pip3 install -U -r requirements.txt
 ```
 
-Alternatively, install the dependencies with the provided wheel distributions in the bin folder:
-
-```
-pip3 install ./bin/* -f ./ --no-index
-```
-
-Notice: For Windows users, it may be that cloning only works if you are using [Git bash](https://git-scm.com/downloads).
-
 ## Example
 
 To run the Flask server, run the following command:
